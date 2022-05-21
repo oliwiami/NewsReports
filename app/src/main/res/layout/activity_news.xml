@@ -26,7 +26,6 @@
                     android:layout_height="wrap_content">
                     <TextView
                         android:id="@+id/text_news_title"
-                        android:textColor="@color/black"
                         android:textStyle="bold"
                         android:textSize="26sp"
                         android:layout_width="match_parent"
@@ -64,7 +63,6 @@
                     <TextView
                         android:id="@+id/text_news_time"
                         android:layout_marginTop="6dp"
-                        android:textColor="@color/black"
                         android:textSize="16sp"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content">
@@ -76,7 +74,6 @@
             <TextView
                 android:id="@+id/text_news_detail"
                 android:textSize="22sp"
-                android:textColor="@color/black"
                 android:layout_marginTop="8dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
@@ -85,7 +82,6 @@
             <TextView
                 android:id="@+id/text_news_content"
                 android:textSize="20sp"
-                android:textColor="@color/black"
                 android:layout_marginTop="8dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
